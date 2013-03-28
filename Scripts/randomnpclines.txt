@@ -9,7 +9,11 @@ Random Citizen Lines:
 
 >"some asshole just got me to install this 'gentoo' thing. he said it'd fix my lag..."
 
+<<<<<<< HEAD
+>"urgh, this IBem keyboard is so loud, who'd buy one of these things?"
+=======
 >"urgh, this iBem keyboard is so loud, who'd buy one of these things?"
+>>>>>>> upstream/master
 
 >"watch out for that stallman guy, I heard he supports communism"
 
@@ -29,9 +33,12 @@ Random Stranger: >"Wow thanks mister"
 
 >"Wow my iBeM Personal Computer is really neat, it even uses Proprietarydows 1.0"
 
+<<<<<<< HEAD
+=======
 >"capitalism is cannibalism fuck da police"
 
 
+>>>>>>> upstream/master
 Random Dialogue at MIT:
 
 >"C is a pretty nice language, I wrote my own editor with it!"
