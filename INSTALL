@@ -1,7 +1,0 @@
-There is an INSTALL file for each platform. Please refer to the one according to yours:
-
-Unix-like:
-	INSTALL.unix
-
-Windows:
-	INSTALL.win32
